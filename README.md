@@ -84,7 +84,7 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## 🌐 Links
 
-- **Live Demo**: [Your Live Demo Link](https://your-live-app.com)
+- **Live Demo**: [[Your Live Demo Link](https://your-live-app.com)](https://qrgenerator-eight-indol.vercel.app/)
 - **GitHub Repository**: [[https://github.com/your-username/qrgenerator](https://github.com/your-username/qrgenerator)](https://github.com/Ramox7171/qrgenerator)
 
 
