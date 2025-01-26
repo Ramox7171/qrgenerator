@@ -1,5 +1,6 @@
 # QR Code Generator
-![image](https://github.com/user-attachments/assets/a02735d6-402b-4992-b9d7-8d0f3fe33a16)
+![image](https://github.com/user-attachments/assets/9f77f611-98fe-475b-b87e-dc51cb76c863)
+
 
 
 This project is a **QR Code Generator** built using **React** and **TypeScript**. It allows users to input a URL, generate a QR code, and download it as a PNG file. The app uses the `qrcode` library to generate QR codes and is styled using **SCSS** for a clean and responsive user interface.
@@ -71,7 +72,8 @@ npm start
 
 Below is a screenshot of how the application looks:
 
-![image](https://github.com/user-attachments/assets/05e8548e-fd4c-4f90-8e78-f66ed8751abd)
+![image](https://github.com/user-attachments/assets/92d9bb97-e003-4165-8efd-be5002c1e97b)
+
 
 
 ## 🛡️ License
